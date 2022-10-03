@@ -5,8 +5,6 @@ class Solution {
         int i, j;
         Arrays.sort(nums);
     
-        List<List<Integer>> res = new ArrayList() ;
-        
         for(int k = 0 ; k < nums.length-1 ; k++){
             i =k+1;
             j = nums.length-1;

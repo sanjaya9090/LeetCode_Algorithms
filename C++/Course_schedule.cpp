@@ -7,7 +7,6 @@ Some courses may have prerequisites, for example to take course 0 you have to fi
 
 Given the total number of courses and a list of prerequisite pairs, is it possible for you to finish all courses?
 
- 
 
 Example 1:
 
