@@ -1,7 +1,5 @@
 //Problem Link: https://leetcode.com/problems/3sum/
 
-//Solution
-
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
         int i, j;
