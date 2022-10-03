@@ -4,7 +4,7 @@ https://leetcode.com/problems/rotate-list/submissions/
 /**
  * Definition for singly-linked list.
  * struct ListNode {
- *     int val;
+ *    int val;
  *     struct ListNode *next;
  * };
  */
