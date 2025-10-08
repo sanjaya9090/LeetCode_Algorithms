@@ -4,8 +4,7 @@ Problem No: 61  Rotate List
 URI: https://leetcode.com/problems/rotate-list/
 Logic: Calculate the length of the linked linst and store each node in a seperate arraylist in the first pass and if the value 
 of k is less than length then rotation point will be length-k else multiple rotations happends this can be done by the following logic
-till length - k > 0 the value of k is updated as k-length. Swap the next pointers for the rotation point and last node of the listarray 
-to length-k node and start respectively
+till length - k > 0 the value of k is updated as k-length.
 */
 
 /**
