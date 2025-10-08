@@ -1,4 +1,5 @@
 class Solution:
+    
     def diagonalSort(self, mat: List[List[int]]) -> List[List[int]]:
         if not mat: return [[]]
         m = len(mat)
