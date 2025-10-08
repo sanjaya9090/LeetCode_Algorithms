@@ -1,5 +1,5 @@
 // Link: https://leetcode.com/problems/generate-parentheses/
-func generateParenthesis(n int) []string {
+func generateParent(n int) []string {
     combinations := []string{}
     backtrack(&combinations, n, "", 0, 0 )
     return combinations
